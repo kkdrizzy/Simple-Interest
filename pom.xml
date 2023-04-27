@@ -59,7 +59,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>SimpleInterest</finalName>
+        <finalName>simpleinterest</finalName>
     </build>
 
 </project>
